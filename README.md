@@ -5,6 +5,8 @@
 - [![Linkedin: MedinaVla](https://img.shields.io/badge/-MedinaVla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-MedinaVla)](https://www.linkedin.com/in/MedinaVla)
 - [![GitHub MedinaVla](https://img.shields.io/github/followers/MedinaVla?label=follow&style=social)](https://github.com/MedinaVla)
 
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=medinavla
+
 
 <!---
 MedinaVla/MedinaVla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
