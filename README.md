@@ -1,13 +1,14 @@
-- # <Vladimir Medina Miguel>
+
+  <h1 align="center">Vladimir Medina Miguel</h1>
+
 
 - 🌱 I’m currently learning Flutter
-- [Website](https://kingtechnologies.in "Welcome")
 
-- [Live](<https://kingtechnologies.in> "Live View")
+
+- This is my  [Portfolio](https://medinavla.github.io  "Welcome") 
 - 📫 How to reach me 
-- [![Twitter: MedinaVla](https://img.shields.io/twitter/follow/MedinaVla?style=social)](https://twitter.com/MedinaVla)
-- [![Linkedin: MedinaVla](https://img.shields.io/badge/-MedinaVla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-MedinaVla)](https://www.linkedin.com/in/MedinaVla)
-- [![GitHub MedinaVla](https://img.shields.io/github/followers/MedinaVla?label=follow&style=social)](https://github.com/MedinaVla)
+- [![Twitter: MedinaVla](https://img.shields.io/twitter/follow/MedinaVla?style=social)](https://twitter.com/MedinaVla) [![Linkedin: MedinaVla](https://img.shields.io/badge/-MedinaVla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-MedinaVla)](https://www.linkedin.com/in/MedinaVla) [![GitHub MedinaVla](https://img.shields.io/github/followers/MedinaVla?label=follow&style=social)](https://github.com/MedinaVla)
+
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=medinavla&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
